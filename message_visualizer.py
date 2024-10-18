@@ -69,8 +69,6 @@ def _get_image_data(item):
         return item['image']
     return None
 
-# ... rest of the code (LLMModel, OpenAIModel, etc.) remains unchanged ...
-
 def test_visualizer():
     messages = [
         {"role": "system", "content": "You are a helpful assistant."},
