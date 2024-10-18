@@ -6,8 +6,8 @@ Visualizes message history or context of LLMs to provide more observability duri
 Make sure you have Python 3.8 or later installed and create a virtual environment.
 
 ```
-python -m venv msg_
-source venv/bin/activate
+python -m venv msg_viz
+source msg_viz/bin/activate
 ```
 
 Install the dependencies.
