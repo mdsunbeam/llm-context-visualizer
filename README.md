@@ -23,12 +23,12 @@ Example of message history visualization with dummy message list.
 python message_visualizer.py
 ```
 
-![Message Visualizer Output](@message_visualizer_output.png)
+![Message Visualizer Output](message_visualizer_output.png)
 
 Example of message history visualization with OpenAI API.
 ```
 python openai_test.py
 ```
 
-![OpenAI API Output](@openai_api_output.png)
+![OpenAI API Output](openai_api_output.png)
 
